@@ -49,8 +49,8 @@
 
 ## 📫 Reach Me
 - GitHub: https://github.com/gnahiak2  
-- Discord: gnahiak2  
-- Hack Club Slack: gnahiak2  
+- Discord: @gnahiak2  
+- Hack Club Slack: @gnahiak2  
 
 ---
 
