@@ -1,6 +1,6 @@
 # 👋 Yo, I'm Kaihang
 
-💻 Student | PC Builder | Debugging Victim  
+💻 Member of Hack Club | Student | PC Builder | Debugging Victim  
 🎮 Gaming, Linux, and breaking stuff for fun  
 
 ---
