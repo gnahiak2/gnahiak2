@@ -1,46 +1,56 @@
 # 👋 Yo, I'm Kaihang
 
-💻 Student | PC Enthusiast | Certified "why isn't this booting" survivor  
-🎮 Into gaming, Linux, and messing with stuff until it either works or explodes  
+💻 Student | PC Builder | Debugging Victim  
+🎮 Gaming, Linux, and breaking stuff for fun  
 
 ---
 
 ## 🚀 About Me
-- 🧠 Currently learning: Linux, programming, and lowkey everything tech
-- 💻 I love building PCs (and breaking them 🔥)
-- 🎯 Goal: Get better at coding + build cool stuff
+- 🧠 Learning: Linux, programming, random tech rabbit holes
+- 💻 I build PCs (and sometimes emotionally damage them)
+- 🐧 Linux + Windows dual life
+- ⚡ I like figuring out why things *don’t* work
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, C++ (kinda), maybe more soon 👀
-- 🐧 OS: Windows, Sometimes linux
-- ⚙️ Tools: Git, VS Code, random scripts that may or may not work
+- 💻 Languages: Python, C++, JavaScript
+- 🐧 OS: Windows + Linux
+- ⚙️ Tools: Git, VS Code, QMK, random scripts
 
 ---
 
 ## 📈 GitHub Stats
-![Kaihang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnahiak2&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=gnahiak2&show_icons=true&theme=tokyonight)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnahiak2&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 What I'm Working On
-- 🖥️ PC builds & troubleshooting (pain.)
-- ⚡ Trying to not brick my system again
+## 🔥 Projects I Messed With
+- 💥 **explosivegf-server** – backend chaos in Python  
+- 🍳 **Cooked** – you were NOT meant to cook this  
+- 🦕 **dinosaurs** – fork but still cool    
 
 ---
 
-## 🎮 Fun Stuff
-- 💀 I fix things by turning them off and on (sometimes it works??)
-- 🛸 I break things by "just trying something real quick"
-- 🤡 My PC has trust issues with me
+## ⚡ What I'm Doing Now
+- 🖥️ Fixing PCs (or making them worse)
+- ⚙️ Playing with QMK firmware
+- 🧪 Testing random tech ideas
+
+---
+
+## 🎮 Fun Facts
+- 💀 I fix bugs by restarting  
+- 🤡 I create bugs by “just testing something”  
+- 🛸 My PC fears me  
 
 ---
 
 ## 📫 Reach Me
-- GitHub: https://github.com/gnahiak2
-- Discord: gnahiak2
-- Hack Club Slack: gnahiak2
+- GitHub: https://github.com/gnahiak2  
+- Discord: gnahiak2  
+- Hack Club Slack: gnahiak2  
 
 ---
 
