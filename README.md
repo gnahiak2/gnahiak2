@@ -4,7 +4,7 @@
 > loading skills...  
 > status: sleep deprived but functional 💀
 
-💻 Student | PC Builder | Debugging Victim  
+💻 Hack Club | Student | PC Builder | Debugging Victim  
 🎮 Gaming • Linux • Breaking things professionally  
 
 ---
