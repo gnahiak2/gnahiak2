@@ -1,58 +1,79 @@
 # 👋 Yo, I'm Kaihang
 
-💻 Member of Hack Club | Student | PC Builder | Debugging Victim  
-🎮 Gaming, Linux, and breaking stuff for fun  
+💻 Hack Club member | Student | Rust enjoyer | Professional debugging victim  
+🎮 I build things, break things, then figure out why I broke them
 
 ---
 
 ## 🚀 About Me
-- 🧠 Learning: Linux, programming, random tech rabbit holes
-- 💻 I build PCs (and sometimes emotionally damage them)
-- 🐧 Linux + Windows dual life
-- ⚡ I like figuring out why things *don’t* work
+
+I'm a student who likes building random stuff across software, hardware, and infrastructure.
+
+I especially like projects where I get to understand what's happening under the hood instead of just gluing libraries together.
+
+- 🦀 Currently heavily focused on **Rust**
+- 🪟 Windows on my PCs
+- 🐧 Linux on my servers
+- 🔧 Embedded / hardware tinkering
+- 🖥️ Systems and developer tooling
+- 🌐 Self-hosting and infrastructure
+- 🎮 Minecraft tooling and servers
+- 🧪 I build random things because I can
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, C++, JavaScript
-- 🐧 OS: Windows + Linux
-- ⚙️ Tools: Git, VS Code, QMK, random scripts
+
+### Languages
+
+- 🦀 **Rust**
+- 🐍 **Python**
+- ⚡ **JavaScript / TypeScript**
+- 💻 **C / C++**
+- 🐚 **Bash**
+
+### Rust
+
+- Axum
+- Tokio
+- Reqwest
+- Serde
+- WASM
+- `no_std`
+- `esp-hal`
+- Async Rust
+- Systems programming
+
+### Platforms & Tools
+
+- 🪟 Windows
+- 🐧 Linux servers
+- 📦 Cargo
+- 📦 Podman / Docker
+- 🔧 Git
+- ⌨️ QMK
+- 🔌 ESP32
+- 🌐 Cloudflare
+- 🗄️ SQLite
+- ⚙️ Nginx
 
 ---
 
-## 📈 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=gnahiak2&show_icons=true&theme=tokyonight)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnahiak2&layout=compact&theme=tokyonight)
+## 🚀 What I Build
 
----
+I don't really stick to one category.
 
-## 🔥 Projects I Messed With
-- 💥 **explosivegf-server** – backend chaos in Python  
-- 🍳 **Cooked** – you were NOT meant to cook this  
-- 🦕 **dinosaurs** – fork but still cool    
-
----
-
-## ⚡ What I'm Doing Now
-- 🖥️ Fixing PCs (or making them worse)
-- ⚙️ Playing with QMK firmware
-- 🧪 Testing random tech ideas
-
----
-
-## 🎮 Fun Facts
-- 💀 I fix bugs by restarting  
-- 🤡 I create bugs by “just testing something”  
-- 🛸 My PC fears me  
-
----
-
-## 📫 Reach Me
-- GitHub: https://github.com/gnahiak2  
-- Discord: @gnahiak2  
-- Hack Club Slack: @gnahiak2  
-
----
-
-## ⚡ Quote
-> "It worked yesterday, I swear."
+```text
+┌─────────────────────────────────────┐
+│              Things I Build         │
+├─────────────────────────────────────┤
+│ 🦀 Rust applications                │
+│ 🖥️ Developer tools                 │
+│ ⚡ Embedded firmware                │
+│ 🌐 Web applications                 │
+│ 📡 Networking / infrastructure      │
+│ 🎮 Minecraft tooling                │
+│ 🔧 Hardware projects                │
+│ 🐧 Linux server software            │
+│ 🧪 Random experiments               │
+└─────────────────────────────────────┘
