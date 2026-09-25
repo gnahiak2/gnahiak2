@@ -2,7 +2,7 @@
 
 💻 Hack Club member | Student | Rust enjoyer | Professional debugging victim  
 🦀 I build basically everything in Rust  
-🍎 macOS + 🪟 Windows on my computers | 🐧 Linux on my servers
+🍎 macOS on my computers| 🐧 Linux on my servers
 
 ---
 
@@ -18,7 +18,6 @@ If I can, I probably will.
 
 - 🦀 **Rust is my main language**
 - 🍎 I use **macOS**
-- 🪟 I use **Windows**
 - 🐧 I use **Linux for servers**
 - 🔧 I like hardware and embedded systems
 - 🖥️ I build developer tools
@@ -73,7 +72,6 @@ I'm interested in using Rust for:
 ### Platforms
 
 - 🍎 macOS
-- 🪟 Windows
 - 🐧 Linux servers
 
 ### Tools & Technologies
@@ -99,17 +97,13 @@ A mail routing and sending system written in Rust.
 
 A GPU-accelerated terminal emulator written in Rust.
 
-### 🌐 Persona Website
+### 🌐 Personal Website
 
-My personal website, built with Rust.
+My personal website, built with HTML.
 
 ### 🔌 ESP32-S3 / CH341A
 
 Embedded Rust firmware experimenting with an ESP32-S3 and CH341A hardware interfaces.
-
-### 🎮 Minecraft Tooling
-
-Minecraft launchers, servers, infrastructure, and other experiments.
 
 ### ⌨️ QMK
 
